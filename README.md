@@ -14,7 +14,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 
-```python
+python
 class DrashtiPatoliya:
     
     def __init__(self):
@@ -38,6 +38,7 @@ class DrashtiPatoliya:
     
     def say_hi(self):
         return f"Hi there! I'm {self.role} passionate about building scalable applications!"
+
 
 <h2 align="center">⚡ Tech Stack</h2>
 
