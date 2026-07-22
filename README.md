@@ -1,4 +1,3 @@
-```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:161B22,100:000000&text=Drashti%20Patoliya&fontColor=58A6FF&fontSize=50&animation=twinkling&fontAlignY=38&desc=Python%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
 
 <p align="center">
@@ -39,7 +38,6 @@ class DrashtiPatoliya:
     
     def say_hi(self):
         return f"Hi there! I'm {self.role} passionate about building scalable applications!"
-```
 
 <h2 align="center">⚡ Tech Stack</h2>
 
