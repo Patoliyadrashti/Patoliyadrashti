@@ -16,7 +16,6 @@ Python Backend Developer • AI Enthusiast • Open Source Contributor
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </p>
-
 ## 👩‍💻 About Me
 
 ```python
@@ -43,30 +42,38 @@ class DrashtiPatoliya:
     ]
 
     motto = "Learn • Build • Improve • Repeat 🚀"
-
-
+```
 
 ---
 
-# 🛠 Tech Stack
-
-```md
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-Python • SQL • JavaScript • HTML • CSS
+- Python
+- SQL
+- JavaScript
+- HTML
+- CSS
 
 ### ⚙ Backend
-Flask • REST APIs
+- Flask
+- REST APIs
 
 ### 🗄 Database
-MySQL
+- MySQL
 
 ### 📊 Data Science
-NumPy • Pandas • Matplotlib
+- NumPy
+- Pandas
+- Matplotlib
 
 ### 🧰 Tools
-Git • GitHub • VS Code • Postman
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -79,32 +86,35 @@ Git • GitHub • VS Code • Postman
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 </p>
 
+---
+
 ## 🚀 Featured Projects
 
-⭐ Student Management System
-> Flask • MySQL • Attendance • Dashboard
+- 🎓 **Student Management System**
+  - Flask • MySQL • Attendance • Dashboard
 
-⭐ Resume ATS Analyzer
-> Python • NLP • Resume Parser
+- 📄 **Resume ATS Analyzer**
+  - Python • NLP • Resume Parser
 
-⭐ AI Chatbot
-> Python • API Integration
+- 🤖 **AI Chatbot**
+  - Python • API Integration
 
-⭐ Data Analytics Dashboard
-> Pandas • Matplotlib
+- 📊 **Data Analytics Dashboard**
+  - Pandas • Matplotlib
 
-⭐ REST API Authentication
-> Flask • JWT • MySQL
+- 🌐 **REST API Authentication**
+  - Flask • JWT • MySQL
+
+---
 
 ## 🎯 Current Goals
 
-🎯 Master Python Backend Development
+- 🎯 Master Python Backend Development
+- 🎯 Build Production Ready REST APIs
+- 🎯 Contribute to Open Source
+- 🎯 Land a Software Developer Role
 
-🎯 Build Production Ready REST APIs
-
-🎯 Contribute to Open Source
-
-🎯 Land a Software Developer Role
+---
 
 ## 🌐 Connect With Me
 
@@ -124,12 +134,14 @@ Git • GitHub • VS Code • Postman
 
 </p>
 
+---
+
 <p align="center">
 
 ### 💙 Thanks for visiting my profile!
 
 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-⭐ If you like my projects, consider giving them a star!
+⭐ If you like my projects, consider giving them a ⭐
 
 </p>
