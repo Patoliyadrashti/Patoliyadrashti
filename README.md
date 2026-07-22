@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:21262D&text=Drashti%20Patoliya&fontColor=58A6FF&fontSize=42&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:161B22,100:000000&text=Drashti%20Patoliya&fontColor=58A6FF&fontSize=50&animation=twinkling&fontAlignY=38&desc=Python%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
 <h1 align="center">Hi 👋, I'm Drashti Patoliya</h1>
 
 <h3 align="center">
@@ -6,7 +6,9 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Building+REST+APIs+with+Flask;Learning+DSA+%26+System+Design;Exploring+Machine+Learning;Always+Learning+Something+New+🚀"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=25&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Building+Scalable+REST+APIs;Flask+%7C+MySQL+%7C+Python;Machine+Learning+Explorer;Open+Source+Contributor;Always+Learning+Something+New+🚀"/>
+
 </p>
 
 <p align="center">
