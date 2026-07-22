@@ -12,34 +12,6 @@
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,html,css,js,postman,linux,docker,aws&theme=dark"/>
 </p>
 
-<h2 align="center">👩‍💻 About Me</h2>
-
-python
-class DrashtiPatoliya:
-    
-    def __init__(self):
-        self.role = "Python Backend Developer"
-        self.location = "India 🇮🇳"
-        self.education = "Computer Science Engineering"
-        self.current_focus = [
-            "Advanced Python",
-            "Flask Framework",
-            "REST APIs",
-            "Machine Learning",
-            "DSA"
-        ]
-        self.interests = [
-            "Backend Development",
-            "AI/ML",
-            "Open Source",
-            "System Design"
-        ]
-        self.motto = "Learn • Build • Improve • Repeat 🚀"
-    
-    def say_hi(self):
-        return f"Hi there! I'm {self.role} passionate about building scalable applications!"
-
-
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
@@ -222,4 +194,3 @@ class DrashtiPatoliya:
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:000000,50:161B22,100:0D1117"/>
 
 </div>
-```
