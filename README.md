@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:21262D&text=Drashti%20Patoliya&fontColor=58A6FF&fontSize=42&animation=fadeIn"/>
 <h1 align="center">Hi 👋, I'm Drashti Patoliya</h1>
 
 <h3 align="center">
@@ -192,3 +193,5 @@ class DrashtiPatoliya:
 🚀 Happy Coding!
 
 </div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:21262D,50:161B22,100:0D1117"/>
+
