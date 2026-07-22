@@ -1,25 +1,18 @@
-```markdown
-<!-- Header Animation -->
+```
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,50:161B22,100:000000&text=Drashti%20Patoliya&fontColor=58A6FF&fontSize=50&animation=twinkling&fontAlignY=38&desc=Python%20Backend%20Developer%20|%20AI%20Enthusiast&descAlignY=60&descSize=18"/>
 
-<!-- Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=900&lines=Python+Backend+Developer;Flask+%7C+REST+API+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things+🚀"/>
 </p>
 
-<!-- Profile Views Counter -->
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Patoliyadrashti&label=Profile+Views&color=58A6FF&style=for-the-badge"/>
 </p>
 
-<!-- Skills Animation -->
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,html,css,js,postman,linux,docker,aws&theme=dark"/>
 </p>
 
----
-
-<!-- About Me Section -->
 <h2 align="center">👩‍💻 About Me</h2>
 
 ```python
@@ -48,9 +41,6 @@ class DrashtiPatoliya:
         return f"Hi there! I'm {self.role} passionate about building scalable applications!"
 ```
 
----
-
-<!-- Tech Stack -->
 <h2 align="center">⚡ Tech Stack</h2>
 
 <p align="center">
@@ -76,9 +66,6 @@ class DrashtiPatoliya:
 </table>
 </p>
 
----
-
-<!-- Currently Working On -->
 <h2 align="center">🚀 Currently Working On</h2>
 
 <p align="center">
@@ -100,9 +87,6 @@ class DrashtiPatoliya:
 </tr>
 </table>
 
----
-
-<!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -114,27 +98,18 @@ class DrashtiPatoliya:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Patoliyadrashti&theme=github-dark&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="70%" />
 </p>
 
----
-
-<!-- Contribution Graph -->
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Patoliyadrashti&theme=github-dark&hide_border=true&area=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="90%" />
 </p>
 
----
-
-<!-- GitHub Trophies -->
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Patoliyadrashti&theme=onedark&no-frame=true&margin-w=15&row=2&column=4" />
 </p>
 
----
-
-<!-- Featured Projects -->
 <h2 align="center">🚀 Featured Projects</h2>
 
 <p align="center">
@@ -186,9 +161,6 @@ class DrashtiPatoliya:
 </table>
 </p>
 
----
-
-<!-- Currently Learning -->
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
@@ -222,9 +194,6 @@ class DrashtiPatoliya:
 </table>
 </p>
 
----
-
-<!-- Connect Section -->
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
@@ -245,9 +214,6 @@ class DrashtiPatoliya:
   </a>
 </p>
 
----
-
-<!-- Footer -->
 <div align="center">
   
 ### ⭐ Thanks for visiting my profile!
