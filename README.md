@@ -37,27 +37,31 @@
 </table>
 </p>
 
-<h2 align="center">🚀 Currently Working On</h2>
+<h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/SvFocn0wLMxBW4UG55/giphy.gif" width="100"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/>
 </p>
 
-<table align="center">
-<tr>
-<td>🐍 <strong>Python Backend Development</strong></td>
-<td>🌐 <strong>REST API Development</strong></td>
-</tr>
-<tr>
-<td>🗄️ <strong>MySQL Database Design</strong></td>
-<td>📊 <strong>Data Analysis with Pandas</strong></td>
-</tr>
-<tr>
-<td>🤖 <strong>Machine Learning</strong></td>
-<td>💻 <strong>Daily DSA Practice</strong></td>
-</tr>
-</table>
+<br>
 
+<p align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/🐍_Advanced_Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/⚡_Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🌐_REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/📊_DSA-FF6F00?style=for-the-badge&logo=code&logoColor=white&labelColor=0D1117"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/🤖_Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0D1117"/>
+  </a>
+</p>
 <h2 align="center">📊 GitHub Analytics</h2>
 
 <p align="center">
@@ -135,36 +139,14 @@
 <h2 align="center">🌱 Currently Learning</h2>
 
 <p align="center">
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100"/>
+
+<img src="https://skillicons.dev/icons?i=python,flask,fastapi,mysql,docker&theme=dark"/>
+
 </p>
 
 <p align="center">
-<table>
-<tr>
-<td align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/><br/>
-  <b>Advanced Python</b>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/48/000000/flask.png"/><br/>
-  <b>Flask</b>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/48/000000/api-settings.png"/><br/>
-  <b>REST APIs</b>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/48/000000/data-configuration.png"/><br/>
-  <b>DSA</b>
-</td>
-<td align="center">
-  <img src="https://img.icons8.com/color/48/000000/artificial-intelligence.png"/><br/>
-  <b>Machine Learning</b>
-</td>
-</tr>
-</table>
+<b>Advanced Python • Flask • REST APIs • Docker • Machine Learning</b>
 </p>
-
 <h2 align="center">🌐 Let's Connect</h2>
 
 <p align="center">
@@ -173,15 +155,6 @@
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="mailto:your_email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
